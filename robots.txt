@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mobilia-2sa.pages.dev/sitemap.xml
